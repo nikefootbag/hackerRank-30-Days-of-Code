@@ -1,9 +1,8 @@
-package com.teamtreehouse;
+package com.timneville;
 
 /**
  * Created by timneville on 24/6/17.
  */
-import java.util.*;
 
 public class Day12_Inheritance {
 

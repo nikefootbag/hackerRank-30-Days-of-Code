@@ -1,13 +1,6 @@
-package com.teamtreehouse;
-
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
+package com.timneville;
 
 import java.util.Scanner;
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 /**
  * Created by timneville on 24/6/17.
