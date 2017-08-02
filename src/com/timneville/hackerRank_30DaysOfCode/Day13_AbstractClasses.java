@@ -1,4 +1,4 @@
-package com.timneville;
+package com.timneville.hackerRank_30DaysOfCode;
 
 import java.util.*;
 /**
