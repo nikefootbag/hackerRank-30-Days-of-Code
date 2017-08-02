@@ -10,8 +10,7 @@ public class LinkedListInsertNodeAtTail {
     }
 
     Node Insert(Node head,int data) {
-// This is a "method-only" submission.
-// You only need to complete this method.
+
         Node insertedNode = new Node();
         insertedNode.data = data;
 
